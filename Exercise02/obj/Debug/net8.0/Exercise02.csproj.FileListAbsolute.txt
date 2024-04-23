@@ -1,0 +1,14 @@
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\bin\Debug\net8.0\Exercise02.exe
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\bin\Debug\net8.0\Exercise02.deps.json
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\bin\Debug\net8.0\Exercise02.runtimeconfig.json
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\bin\Debug\net8.0\Exercise02.dll
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\bin\Debug\net8.0\Exercise02.pdb
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.AssemblyInfoInputs.cache
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.AssemblyInfo.cs
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.dll
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\refint\Exercise02.dll
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.pdb
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\Exercise02.genruntimeconfig.cache
+C:\Users\reidm\OneDrive\Desktop\Source\ExerciseForProgrammers\ExcerciseForProgrammers\Exercise02\obj\Debug\net8.0\ref\Exercise02.dll
