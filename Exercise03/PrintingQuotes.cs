@@ -1,5 +1,5 @@
 ﻿namespace Exercise03;
-internal static class AuthorQuote
+internal static class PrintingQuotes
 {
     static void Main()
     {

@@ -1,5 +1,5 @@
 ﻿namespace Exercise02;
-internal static class Counting
+internal static class CountingTheNumberOfCharacters
 {
     static void Main()
     { 
