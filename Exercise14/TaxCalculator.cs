@@ -11,14 +11,15 @@ internal static class TaxCalculator
         if (double.TryParse(orderInput, out double orderOutput)) 
         {
             double total = orderOutput;
-            double tax = 0.55;
-            double subtotal = total * tax;
+            double tax = 5.5;
+            double subtotal = total * tax/100;
+            double taxedTotal = total + subtotal;
             Console.WriteLine($"The total is {total.ToString("C")}.");
             if (stateInput == "WI" || stateInput == "WISCONSIN")
             {
                 Console.WriteLine($"The subtotal is {total.ToString("C")}.");
-                Console.WriteLine($"The tax is {tax}.");
-                Console.WriteLine($"The total is {subtotal}." );
+                Console.WriteLine($"The tax is {subtotal.ToString("C")}.");
+                Console.WriteLine($"The total is {taxedTotal.ToString("C")}." );
             }
         }
         else
